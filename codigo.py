@@ -3,7 +3,7 @@ import streamlit as st
 # streamlit run codigo.py
 from openai import OpenAI
 
-modelo_ia = OpenAI(api_key="AQ.Ab8RN6I2bBkj_aocmFOOtcj2ZnorY_GgHDmo9FSmfsMonhSJ8g",
+modelo_ia = OpenAI(api_key="",
                    base_url="https://generativelanguage.googleapis.com/v1beta/openai",)
 
 # TITULO
